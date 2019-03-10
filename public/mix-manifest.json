@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/formularios/formularioBrand.css": "/css/formularios/formularioBrand.css",
+    "/js/busqueda/busqueda.js": "/js/busqueda/busqueda.js",
+    "/js/crud/create.js": "/js/crud/create.js",
+    "/js/crud/edit.js": "/js/crud/edit.js",
+    "/js/crud/read.js": "/js/crud/read.js",
+    "/js/paginate/paginate.js": "/js/paginate/paginate.js",
+    "/js/validaciones/validacionFormularioBrand.js": "/js/validaciones/validacionFormularioBrand.js",
+    "/js/validaciones/validacionRegistro.js": "/js/validaciones/validacionRegistro.js"
+}
